@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Happy Birthday Nonna 💗</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom right, #fff0f5, #ffe6e6);
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
+      overflow-x: hidden;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      color: #ff4d88;
+      margin-bottom: 20px;
+    }
+
+    .message-box {
+      max-width: 700px;
+      font-size: 1.2rem;
+      line-height: 1.7;
+      text-align: left;
+      background: rgba(255, 255, 255, 0.7);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      white-space: pre-line;
+      animation: fadeIn 2s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .footer {
+      margin-top: 40px;
+      color: #999;
+      font-size: 0.9rem;
+    }
+
+    audio {
+      margin-top: 30px;
+    }
+
+    /* Typewriter effect (optional) */
+    .typewriter {
+      overflow: hidden;
+      border-right: .15em solid #ff69b4;
+      white-space: nowrap;
+      animation: typing 6s steps(80, end), blink .75s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    @keyframes blink {
+      from, to { border-color: transparent }
+      50% { border-color: #ff69b4; }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎉 Happy Birthday Month, Nonna 💖</h1>
+
+  <div class="message-box">
+    My lovee, Nonna 💗  
+    Happy birthday month, meri jaan 💗  
+
+    Tujhe shayad andaza bhi nahi hai,  
+    tera aana meri life mein kitna special tha...  
+    jese ek bacha apna favourite toy paa le,  
+    jise wo kabhi khona nahi chahta — kabhi bhi nahi 🤞  
+
+    Tu dusro ke liye kuch bhi ho...  
+    mere liye tu sab kuch hai. 🌍  
+
+    Har subah meri sirf iss umeed mein hoti hai  
+    ki aaj tujhe thoda aur khush dekh saku.  
+
+    Tera muskurana meri jeet hai,  
+    aur tera rona meri sabse badi haar 💔  
+
+    Tujhse milkar laga, pyar toh tha zindagi mein...  
+    par tu mera God’s Plan hai 💫  
+
+    Tu vo dua hai jo maangi bhi nahi thi,  
+    fir bhi rab ne mujhe de di 💝  
+
+    Kabhi kabhi darr lagta hai...  
+    itna pyaar kahin kisi nazar ko na lag jaye 😔  
+
+    Bas tu rahe, khush rahe, mere saath rahe…  
+    aur main har janam tujhe har waqt wish karu...  
+
+    🎂 Happy Birthday Month, meri sabse khaas Nonna 💗
+  </div>
+
+  <!-- Optional Music -->
+  <audio controls autoplay loop>
+    <source src="https://www.bensound.com/bensound-music/bensound-love.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+  <div class="footer">
+    Created with infinite love ❤️ by Tera Nonu
+  </div>
+
+</body>
+</html>q
